@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola soy Grekoo👋
+Estudiante de informatica aprendiendo git y git hub
 <!--
 **Grekoo18/Grekoo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
